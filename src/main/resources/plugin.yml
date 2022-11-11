@@ -1,0 +1,8 @@
+name: Pyrocrates
+version: '${project.version}'
+main: pyro.frost.pyrocrates.Pyrocrates
+api-version: 1.19
+depend: [ vault ]
+authors: [ revenantsoul ]
+description: crates for pyro frost
+website: https://revenant.dev
